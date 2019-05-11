@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\ticTacToeGame\ticTacToeGame\bin\Debug\ticTacToeGame.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\ticTacToeGame\ticTacToeGame\obj\Debug\ticTacToeGame.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\ticTacToeGame\ticTacToeGame\obj\Debug\ticTacToeGame.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\ticTacToeGame\ticTacToeGame\obj\Debug\ticTacToeGame.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\ticTacToeGame\ticTacToeGame\obj\Debug\ticTacToeGame.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\ticTacToeGame\ticTacToeGame\bin\Debug\ticTacToeGame.exe
+c:\users\admin\documents\visual studio 2015\Projects\ticTacToeGame\ticTacToeGame\bin\Debug\ticTacToeGame.pdb
+c:\users\admin\documents\visual studio 2015\Projects\ticTacToeGame\ticTacToeGame\obj\Debug\ticTacToeGame.exe
+c:\users\admin\documents\visual studio 2015\Projects\ticTacToeGame\ticTacToeGame\obj\Debug\ticTacToeGame.pdb

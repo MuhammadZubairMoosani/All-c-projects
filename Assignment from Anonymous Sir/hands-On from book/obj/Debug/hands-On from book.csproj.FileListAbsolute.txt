@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\hands-On from book\hands-On from book\bin\Debug\hands-On from book.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\hands-On from book\hands-On from book\obj\Debug\hands-On from book.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\hands-On from book\hands-On from book\bin\Debug\hands-On from book.exe
+c:\users\admin\documents\visual studio 2015\Projects\hands-On from book\hands-On from book\bin\Debug\hands-On from book.pdb
+c:\users\admin\documents\visual studio 2015\Projects\hands-On from book\hands-On from book\obj\Debug\hands-On from book.exe
+c:\users\admin\documents\visual studio 2015\Projects\hands-On from book\hands-On from book\obj\Debug\hands-On from book.pdb

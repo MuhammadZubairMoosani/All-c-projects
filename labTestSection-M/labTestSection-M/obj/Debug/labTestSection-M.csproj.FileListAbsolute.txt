@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\labTestSection-M\labTestSection-M\bin\Debug\labTestSection-M.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\labTestSection-M\labTestSection-M\obj\Debug\labTestSection-M.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\labTestSection-M\labTestSection-M\bin\Debug\labTestSection-M.exe
+c:\users\admin\documents\visual studio 2015\Projects\labTestSection-M\labTestSection-M\bin\Debug\labTestSection-M.pdb
+c:\users\admin\documents\visual studio 2015\Projects\labTestSection-M\labTestSection-M\obj\Debug\labTestSection-M.exe
+c:\users\admin\documents\visual studio 2015\Projects\labTestSection-M\labTestSection-M\obj\Debug\labTestSection-M.pdb

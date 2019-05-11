@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\Check on Prime Number\Check on Prime Number\bin\Debug\Check on Prime Number.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Check on Prime Number\Check on Prime Number\bin\Debug\Check on Prime Number.exe
+c:\users\admin\documents\visual studio 2015\Projects\Check on Prime Number\Check on Prime Number\bin\Debug\Check on Prime Number.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Check on Prime Number\Check on Prime Number\obj\Debug\Check on Prime Number.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Check on Prime Number\Check on Prime Number\obj\Debug\Check on Prime Number.exe
+c:\users\admin\documents\visual studio 2015\Projects\Check on Prime Number\Check on Prime Number\obj\Debug\Check on Prime Number.pdb

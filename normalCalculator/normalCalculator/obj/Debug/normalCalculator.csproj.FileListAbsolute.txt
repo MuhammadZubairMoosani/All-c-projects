@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\normalCalculator\normalCalculator\bin\Debug\normalCalculator.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\normalCalculator\normalCalculator\obj\Debug\normalCalculator.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\normalCalculator\normalCalculator\obj\Debug\normalCalculator.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\normalCalculator\normalCalculator\obj\Debug\normalCalculator.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\normalCalculator\normalCalculator\obj\Debug\normalCalculator.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\normalCalculator\normalCalculator\bin\Debug\normalCalculator.exe
+c:\users\admin\documents\visual studio 2015\Projects\normalCalculator\normalCalculator\bin\Debug\normalCalculator.pdb
+c:\users\admin\documents\visual studio 2015\Projects\normalCalculator\normalCalculator\obj\Debug\normalCalculator.exe
+c:\users\admin\documents\visual studio 2015\Projects\normalCalculator\normalCalculator\obj\Debug\normalCalculator.pdb
